@@ -1,0 +1,6 @@
+C:\Users\wseg\Desktop\TP Para 1er Parcial\SegoviaWalter_PP2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\TP Para 1er Parcial\SegoviaWalter_PP2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\TP Para 1er Parcial\SegoviaWalter_PP2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\TP Para 1er Parcial\SegoviaWalter_PP2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\TP Para 1er Parcial\SegoviaWalter_PP2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\Desktop\TP Para 1er Parcial\SegoviaWalter_PP2D\Entidades\obj\Debug\Entidades.pdb
